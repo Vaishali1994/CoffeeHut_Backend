@@ -1,1 +1,1 @@
-"#Payment options"
+"#CoffeeHut_Wallet"
